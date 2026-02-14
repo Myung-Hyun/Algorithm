@@ -1,3 +1,5 @@
+⚠️ This repository is archived practice code.
+
 # Algorithm
 
 목표: 코딩테스트 통과
